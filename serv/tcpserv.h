@@ -1,8 +1,8 @@
 #ifndef  _TCPSERV_H_
 #define  _TCPSERV_H_
 
-#include"../lab4.h"
-#include"../protocol/msg.h"
+#include "../mychat.h"
+#include "../protocol/msg.h"
 
 
 #define       VALID      1

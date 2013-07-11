@@ -1,21 +1,21 @@
 
 /********************************************************************/
-/* Copyright (C) SSE-USTC, 2010                                     */
+/* Copyright (C) SSE-USTC, 2011                                     */
 /*                                                                  */
 /*  FILE NAME             :  parser.c                               */
 /*  PRINCIPAL AUTHOR      :  Runzhen Wang                           */
-/*  SUBSYSTEM NAME        :  ChatSys                                */
-/*  MODULE NAME           :  ChatSys                                */
+/*  SUBSYSTEM NAME        :                                         */
+/*  MODULE NAME           :                                         */
 /*  LANGUAGE              :  C                                      */
 /*  TARGET ENVIRONMENT    :  ANY                                    */
-/*  DATE OF FIRST RELEASE :  2010/11/26                             */
-/*  DESCRIPTION           :  implement of ChatSys PDU parser        */
+/*  DATE OF FIRST RELEASE :  2011/11/26                             */
+/*  DESCRIPTION           :                                         */
 /********************************************************************/
 
 
-#include"msg.h"
-#include<stdio.h>
-#include<string.h>
+#include "msg.h"
+#include <stdio.h>
+#include <string.h>
 /*
  * Parse the ChatSys PDU to ChatSys Msg
  * input	: char * pdu , Memory allocate outside

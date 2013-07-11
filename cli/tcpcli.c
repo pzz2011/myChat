@@ -12,8 +12,8 @@
 /********************************************************************/
 
 
-#include"../lab4.h"
-#include"../protocol/msg.h"
+#include "../mychat.h"
+#include "../protocol/msg.h"
 
 char name[NAME_LEN];
 
@@ -131,7 +131,7 @@ int main(int argc,char ** argv)
 
     if(argc!=2)
     {
-        printf("Usage: ./cli 127.0.0.1");
+        printf("Usage: ./cli 127.0.0.1\n");
         exit(0);
     }
 

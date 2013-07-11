@@ -12,7 +12,7 @@
 /********************************************************************/
 
 
-#include"../lab4.h"
+#include "../mychat.h"
 
 int Socket(int family,int type,int protocol){
     int  n;

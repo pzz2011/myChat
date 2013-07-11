@@ -1,5 +1,5 @@
 /********************************************************************/
-/* Copyright (C) SSE-USTC, 2010                                     */
+/* Copyright (C) SSE-USTC, 2011                                     */
 /*                                                                  */
 /*  FILE NAME             :  msg.h                                  */
 /*  PRINCIPAL AUTHOR      :  Runzhen Wang                           */
